@@ -1,0 +1,13 @@
+:root {
+    --bg-color: #baba8d
+}
+
+body{
+    background-color: var (--bg-color);
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
